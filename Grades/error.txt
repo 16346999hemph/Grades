@@ -1,0 +1,3 @@
+Rejected Record: Invalid Student ID 'AA3850' in line: AA3850 BCEAEEDDCEAABEC BDCB
+Rejected Record: Invalid Student ID 'ERROR1' in line: ERROR1 BCEAEEDDCEAADAACABAB
+Rejected Record: Invalid Student ID 'ERROR2' in line: ERROR2 BCEAEEDDCEAAD DEAEEB
